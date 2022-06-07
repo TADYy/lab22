@@ -1,0 +1,34 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Store_administrator"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="Store_administrator.New_adm"
+        mc:Ignorable="d"
+        Title="admin" Height="720" Width="1080" Background="Transparent" ResizeMode="NoResize"
+        Margin="-2,0,0,0" BorderThickness="0" 
+        WindowStartupLocation="CenterScreen" AllowsTransparency="True" WindowStyle="None">
+    <Grid>
+
+        <Border x:Name="s1" MinWidth="720"  VerticalAlignment="Top" Padding="10" MaxWidth="1200" CornerRadius="25" Height="359" HorizontalAlignment="Left" Width="742" Margin="194,168,0,0">
+            <Border.Background>
+                <LinearGradientBrush>
+                    <GradientStop Color="#7be9f6" Offset="0.0"/>
+                    <GradientStop Color="#f083da" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="30" Color="LightGray" ShadowDepth="0"/>
+            </Border.Effect>
+        </Border>
+
+        <TextBox x:Name="textBoxLogin" HorizontalAlignment="Left" FontFamily="Helvetica" FontWeight="Light" Height="49" Margin="280,337,0,0" TextWrapping="Wrap" materialDesign:HintAssist.Hint="Введите логин" VerticalAlignment="Top" Width="259" FontSize="20"/>
+        <TextBox x:Name="textBoxPassword" HorizontalAlignment="Left" FontFamily="Helvetica" FontWeight="Light" Height="49" Margin="597,337,0,0" TextWrapping="Wrap" materialDesign:HintAssist.Hint="Введите пароль" VerticalAlignment="Top" Width="259" FontSize="20" Text="{Binding AddGood, Mode=TwoWay, StringFormat=N2, UpdateSourceTrigger=PropertyChanged}"/>
+        <Button Content="Добавить" HorizontalAlignment="Left" FontFamily="Helvetica" FontWeight="Light" Margin="438,451,0,0" VerticalAlignment="Top" Width="222" Height="39" FontSize="20" Click="ButtonAdd_Click"/>
+        <Label Content="Пароль:" HorizontalAlignment="Left" Margin="598,289,0,0" VerticalAlignment="Top" Height="33" Width="124" FontSize="20" FontFamily="Helvetica" FontWeight="Light"/>
+        <Label Content="Добавление администратора:" FontFamily="Helvetica" FontWeight="Light" HorizontalAlignment="Left" Margin="381,205,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Label Content="Логин:" FontFamily="Helvetica" FontWeight="Light" HorizontalAlignment="Left" Margin="280,289,0,0" VerticalAlignment="Top" Height="33" Width="124" FontSize="20" />
+
+    </Grid>
+</Window>

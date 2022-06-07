@@ -1,0 +1,37 @@
+﻿<Window x:Class="Store_administrator.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Store_administrator"
+        mc:Ignorable="d"
+        Title="menu" Height="720" Width="1080" Background="Transparent" ResizeMode="NoResize"
+        Margin="-2,0,0,0" BorderThickness="0" 
+        WindowStartupLocation="CenterScreen" AllowsTransparency="True" WindowStyle="None">
+
+
+    <Grid >
+        <Menu Background="Transparent"/>
+        <Border CornerRadius="10" x:Name="s1" MinWidth="800" VerticalAlignment="Top" Padding="10" MaxWidth="500" Height="544" HorizontalAlignment="Left" Width="739" Margin="145,46,0,0">
+            <Border.Background>
+                <LinearGradientBrush>
+                    <GradientStop Color="#7be9f6" Offset="0.0"/>
+                    <GradientStop Color="#f083da" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="30" Color="LightGray" ShadowDepth="0"/>
+            </Border.Effect>
+
+            <Label Content="Menu"  FontWeight="Light" FontFamily="helvetica" FontSize="48" Foreground="White" HorizontalAlignment="Center" Margin="295.4,23.4,320.6,440.6"/>
+
+        </Border>
+
+        <Button FontFamily="Helvetica" FontWeight="Light" Content="Добавить администратора" HorizontalAlignment="Left" Margin="359,326,0,0" VerticalAlignment="Top" Width="341" Height="47" FontSize="20" Click="Button_Click_1" Background="#FFCC61D6"/>
+        <Button FontFamily="Helvetica" FontWeight="Light" Content="Справка" HorizontalAlignment="Left" Margin="359,480,0,0" VerticalAlignment="Top" Width="341" Height="47" FontSize="20" Click="Button_Click_2" Background="#FFCC61D6"/>
+        <Button FontFamily="Helvetica" FontWeight="Light" Content="Товары" HorizontalAlignment="Left" Margin="359,175,0,0" VerticalAlignment="Top" Width="341" Height="47" FontSize="20" Click="Button_Click" Background="#FFCC61D6"/>
+        <Button FontFamily="Helvetica" FontWeight="Light" Content="Склад" HorizontalAlignment="Left" Margin="359,251,0,0" VerticalAlignment="Top" Width="341" Height="47" FontSize="20" Click="Button_Click_3" Background="#FFCC61D6"/>
+        <Button FontFamily="Helvetica" FontWeight="Light" Content="Заявки" HorizontalAlignment="Left" Margin="359,403,0,0" VerticalAlignment="Top" Width="341" Height="47" FontSize="20" Click="Button_Click_4" Background="#FFCC61D6"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,100 @@
+E:\Store_administrator\Store_administrator\Store_administrator\bin\Debug\Store_administrator.exe.config
+E:\Store_administrator\Store_administrator\Store_administrator\bin\Debug\Store_administrator.exe
+E:\Store_administrator\Store_administrator\Store_administrator\bin\Debug\Store_administrator.pdb
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Store_administrator.csproj.AssemblyReference.cache
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\MainWindow.g.cs
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\App.g.cs
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Store_administrator_MarkupCompile.cache
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Store_administrator_MarkupCompile.lref
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\MainWindow.baml
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Store_administrator.g.resources
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Store_administrator.Properties.Resources.resources
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Store_administrator.csproj.GenerateResource.cache
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Store_administrator.csproj.CoreCompileInputs.cache
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Store_administrator.exe
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Store_administrator.pdb
+E:\Store_administrator\Store_administrator\Store_administrator\bin\Debug\MaterialDesignColors.dll
+E:\Store_administrator\Store_administrator\Store_administrator\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Store_administrator\Store_administrator\Store_administrator\bin\Debug\MaterialDesignColors.pdb
+E:\Store_administrator\Store_administrator\Store_administrator\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Store_administrator\Store_administrator\Store_administrator\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\App.baml
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Store_administrator.csproj.CopyComplete
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Category.g.cs
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Category.baml
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Goods.g.cs
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Menu.g.cs
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Menu.baml
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Goods.baml
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\AddGood.g.cs
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\AddGood.baml
+E:\Store_administrator\Store_administrator\Store_administrator\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Store_administrator\Store_administrator\Store_administrator\bin\Debug\System.Security.AccessControl.dll
+E:\Store_administrator\Store_administrator\Store_administrator\bin\Debug\System.Security.Permissions.dll
+E:\Store_administrator\Store_administrator\Store_administrator\bin\Debug\System.Security.Principal.Windows.dll
+E:\Store_administrator\Store_administrator\Store_administrator\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Store_administrator\Store_administrator\Store_administrator\bin\Debug\System.Security.AccessControl.xml
+E:\Store_administrator\Store_administrator\Store_administrator\bin\Debug\System.Security.Permissions.xml
+E:\Store_administrator\Store_administrator\Store_administrator\bin\Debug\System.Security.Principal.Windows.xml
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\About.g.cs
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\About.baml
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Addadm.g.cs
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Addadm.baml
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\New_adm.g.cs
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\New_adm.baml
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\stock.g.cs
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\stock.baml
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Bid.g.cs
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Bid.baml
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Add_Bid.g.cs
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Add_Bid.baml
+E:\Store_administrator\Store_administrator\Store_administrator\obj\Debug\Store_administrator.csproj.ResolveComReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\bin\Debug\Store_administrator.exe.config
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\bin\Debug\Store_administrator.exe
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\bin\Debug\Store_administrator.pdb
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\bin\Debug\MaterialDesignColors.dll
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\bin\Debug\System.Security.AccessControl.dll
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\bin\Debug\System.Security.Permissions.dll
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\bin\Debug\MaterialDesignColors.pdb
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\bin\Debug\System.Security.AccessControl.xml
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\bin\Debug\System.Security.Permissions.xml
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Store_administrator.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Store_administrator.csproj.ResolveComReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\About.g.cs
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Addadm.g.cs
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\AddGood.g.cs
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Add_Bid.g.cs
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Bid.g.cs
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Goods.g.cs
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\MainWindow.g.cs
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Menu.g.cs
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\New_adm.g.cs
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\stock.g.cs
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\App.g.cs
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Store_administrator_MarkupCompile.cache
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Store_administrator_MarkupCompile.lref
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\App.baml
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\About.baml
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Addadm.baml
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\AddGood.baml
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Add_Bid.baml
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Bid.baml
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Goods.baml
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\MainWindow.baml
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Menu.baml
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\New_adm.baml
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\stock.baml
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Store_administrator.g.resources
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Store_administrator.Properties.Resources.resources
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Store_administrator.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Store_administrator.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Store_administrator.csproj.CopyComplete
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Store_administrator.exe
+C:\Users\HP\OneDrive\Рабочий стол\last\StoreAdmin\Store_administrator\obj\Debug\Store_administrator.pdb
